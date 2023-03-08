@@ -1,14 +1,2 @@
 # AlphabetSoupCharity #
 
-## Overview ##
-
-
-
-
-## Results ##
-
-
-
-
-
-## Summary ##
